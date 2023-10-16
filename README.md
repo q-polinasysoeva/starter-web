@@ -11,9 +11,10 @@ Just adding more text.
 
 ##Intro
 
-This is going to be the difference.
+This is going to be the difference. And this is the contrast.
 
 
 ##How to Contribute
+
 
 ##Deployment
