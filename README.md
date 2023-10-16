@@ -16,5 +16,8 @@ This is going to be the difference. And this is the contrast.
 
 ##How to Contribute
 
+And some more text. And more. And more.
+
+
 
 ##Deployment
