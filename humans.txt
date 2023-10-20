@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Polina> -- <DE> -- <twitter>
 
 # THANKS
 
