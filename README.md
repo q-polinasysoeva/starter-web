@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work.
-I'm editing this file. Adding a line of text.
+I'm editing this file. Adding a line of text , some more text.
 
 ## Purpose
 
