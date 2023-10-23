@@ -25,4 +25,4 @@ Please fork this repo.
 
 ###copyright
 
-2023 Polina Sysoeva
+2023 Polina Sysoeva All rights reserved.
